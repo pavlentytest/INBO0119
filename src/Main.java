@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-
-        System.out.println("45zz");
-
+        int i = 0;
+        int j = 0;
+        System.out.println("lol"+i+j);
     }
 }
