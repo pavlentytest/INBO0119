@@ -2,7 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("MIREA INBO-01-19");
-
+        System.out.println("thisdjango was here!!!");
+        //hah here we go again
+        // my life my rules, bitches, hah
     }
 }
