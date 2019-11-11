@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-int a = 100000;
 
-//DFFFFFFFFFFFFFFFFFFFFFFFFFF
+        System.out.println("MIREA INBO-01-19");
+
     }
 }
