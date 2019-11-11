@@ -5,7 +5,7 @@ public class Main {
         int j = 0;
         System.out.println("lol"+i+j);
 
-        System.out.println("git git");
+        System.out.println("git git git");
 
     }
 }
