@@ -5,7 +5,8 @@ public class Main {
         int j = 0;
         System.out.println("lol"+i+j);
 
-        System.out.println("456zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
+        System.out.println("45zz");
+        System.out.println("keklol");
 
     }
 }
