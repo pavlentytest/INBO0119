@@ -6,7 +6,6 @@ public class Main {
         System.out.println("lol"+i+j);
 
         System.out.println("thisdjango was here!!!");
-        System.out.println("Hah, I got it");
-        System.out.println("You are so slow(((");
+      //yhftgyfffuyfty
     }
 }
